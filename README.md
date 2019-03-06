@@ -64,4 +64,4 @@ Booui、liceva – 完善 Google Play IP 段
 
 ### 许可
 
-转载需注明作者及项目地址
+原项目地址：https://github.com/ConnersHua/Profiles
